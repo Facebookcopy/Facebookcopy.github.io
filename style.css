@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(36, 126, 111);
+}
+
+
+.button
+{
+    font-size: 60px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+/*.kaga
+{
+    background-color: brown;
+    height: 50px;
+    width: 69px;
+    margin-top: 80px;
+    margin-left: 69px;
+}*/
